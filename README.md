@@ -1,5 +1,5 @@
 # Travel Tracker
-![alt text](https://github.com/andrewkamal/)
+![alt text]([https://github.com/andrewkamal/](https://github.com/andrewkamal/Travel-Tracker/blob/main/public/image.png))
 
 ## Description 
 
