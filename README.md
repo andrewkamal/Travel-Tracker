@@ -26,7 +26,7 @@ Travel Tracker is a simple web application that visualizes the map and allows us
 - Clone the repository.
 - Run npm install to install the project dependencies.
 - Set up a PostgreSQL database and update the database connection details in index.js.
-- Run npm start to start the application.
+- Run ```nodemon index.js``` start to start the application.
  
 ## Usage
 Visit http://localhost:3000 in your web browser to view the application. Enter the name of a country to add it to your list of visited countries.
