@@ -1,5 +1,5 @@
 # Travel Tracker
-![alt text]([https://github.com/andrewkamal/](https://github.com/andrewkamal/Travel-Tracker/blob/main/public/image.png))
+![alt text](https://github.com/andrewkamal/Travel-Tracker/blob/main/public/image.png)
 
 ## Description 
 
@@ -20,6 +20,7 @@ Travel Tracker is a simple web application that visualizes the map and allows us
 - Delete countries visited with ease
 - Reset the whole map if needed
 - Error handling is taken care of
+- Keeps track of the number of countries visited
 
 ## Setup
 - Clone the repository.
